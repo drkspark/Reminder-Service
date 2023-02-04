@@ -1,0 +1,9 @@
+Get a new mail on any SMTP service (Here we will use Gmail)
+
+- Make sure u have configured 2-Step Verification in order to get the App Passwords setting.
+- Goto Manage Account -> Security -> Signing in to Google -> App Passwords
+- Select Mail and Other. Generate the Password and Save it somewhere
+
+## Connecting the NodeMailer
+
+- Create a Transport Object
