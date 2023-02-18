@@ -7,3 +7,8 @@ Get a new mail on any SMTP service (Here we will use Gmail)
 ## Connecting the NodeMailer
 
 - Create a Transport Object
+- Using this object create a function which can send mail
+- Use that function to send mail
+
+## Cron Jobs: Scheduled Jobs
+- node-cron
